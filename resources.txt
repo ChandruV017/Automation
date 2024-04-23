@@ -1,0 +1,7 @@
+1. Website Used = Amazon("https://www.amazon.in/")
+2. Dependencies added:
+	* Selenium-Java
+	* TestNG
+	* extentReport
+	* POI
+	* POI-ooxml
