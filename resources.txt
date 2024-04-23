@@ -5,3 +5,5 @@
 	* extentReport
 	* POI
 	* POI-ooxml
+3. Plugins used:
+    * TestNG
